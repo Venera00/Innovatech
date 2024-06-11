@@ -1,0 +1,50 @@
+.product-overview {
+  padding: 20px;
+  text-align: center;
+}
+
+.product-overview h2 {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.product-overview img {
+  height: auto;
+  margin: 20px 0;
+}
+
+.product-overview video {
+  max-width: 100%;
+  height: auto;
+  margin: 20px 0;
+}
+
+.product-overview .features,
+.product-overview .testimonials {
+  margin-top: 20px;
+  text-align: left;
+}
+
+.features ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.features li {
+  background: #f4f4f4;
+  margin: 5px 0;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.testimonials p {
+  background: #e0e0e0;
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.product-img {
+  width: 200px;
+  text-align: center;
+}

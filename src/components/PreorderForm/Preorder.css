@@ -1,0 +1,45 @@
+.pre-order-form {
+  padding: 20px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.pre-order-form h2 {
+  font-size: 2em;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.pre-order-form form {
+  display: flex;
+  flex-direction: column;
+}
+
+.pre-order-form label {
+  margin-bottom: 5px;
+}
+
+.pre-order-form input {
+  margin-bottom: 15px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.pre-order-form button {
+  padding: 10px;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.pre-order-form button:hover {
+  background-color: #555;
+}
+
+.pre-order-form div {
+  color: red;
+  font-size: 0.9em;
+}

@@ -1,0 +1,29 @@
+.news-feed {
+  padding: 20px;
+}
+
+.news-feed h2 {
+  font-size: 2em;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.news-feed ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.news-feed li {
+  background: #f4f4f4;
+  margin: 10px 0;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+.news-feed li h3 {
+  margin: 0 0 10px 0;
+}
+
+.news-feed li p {
+  margin: 0;
+}
