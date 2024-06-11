@@ -6,6 +6,7 @@ import ProductionOverview from "./components/ProductionOverview/ProductionOvervi
 import PreorderForm from "./components/PreorderForm/PreorderForm";
 import NewsFeed from "./components/NewsFeed/NewsFeed";
 import ContactPage from "./components/ContactPage/ContactPage";
+import Footer from "./components/Footer/Footer";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
           <Route path="/news" element={<NewsFeed />} />
           <Route path="/contact" element={<ContactPage />} />
         </Routes>
+        <Footer />
       </div>
     </BrowserRouter>
   );
