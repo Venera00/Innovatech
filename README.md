@@ -1,8 +1,22 @@
-# React + Vite
+# Innovatech
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Innovatech, a leader in advanced technology products, is set to launch the Innovatech VR Pro, a next-generation virtual reality headset.
 
-Currently, two official plugins are available:
+## Pages
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Product Overview:
+- Pre-Order Mechanism
+- Updates and Announcements
+- Company Information
+- Responsive and Interactive Design
+
+## Technologies
+
+- React
+- React-router-dom
+- Formik
+- CSS
+- Yup
+- vite
+
+## Screenshots

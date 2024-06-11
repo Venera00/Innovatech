@@ -19,6 +19,10 @@
   margin: 20px 0;
 }
 
+.features {
+  text-align: center;
+}
+
 .product-overview .features,
 .product-overview .testimonials {
   margin-top: 20px;
